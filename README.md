@@ -1,4 +1,4 @@
-Lab 5 — Docker Compose + Makefile + .env
+Docker Compose + Makefile + .env
 
 Учебный проект для DevOps-практики: многоконтейнерный стек из Python-приложения, PostgreSQL и Nginx, управляемый через Makefile и переменные окружения.
 
